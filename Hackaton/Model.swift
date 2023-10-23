@@ -13,7 +13,7 @@ struct ImageLoadingStatistic{
     var currentPage = 0
     var pages = 0
     var loadedPage = 0
-    var totalCount = 0
+    var totalCount = 0 
     var loadedCount = 0
     
     init(currentPage: Int = 0, pages: Int = 0, loadedPage: Int = 0, totalCount: Int = 0, loadedCount: Int = 0) {

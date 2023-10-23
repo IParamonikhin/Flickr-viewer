@@ -18,7 +18,7 @@ class ShowImageViewController: UIViewController {
     }
         override func viewDidLoad() {
         super.viewDidLoad()
-        initialize()
+        initialize() 
         confifure()
     }
 

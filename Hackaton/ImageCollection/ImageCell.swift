@@ -18,7 +18,7 @@ class ImageCell: UICollectionViewCell{
     
     override init(frame: CGRect) {
         super.init(frame: frame)
-        initialize()
+        initialize() 
     }
     
     required init?(coder: NSCoder) {

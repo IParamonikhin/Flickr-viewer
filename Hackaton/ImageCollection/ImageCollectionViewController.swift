@@ -14,7 +14,7 @@ class ImageCollectionViewController: UIViewController {
     let model = Model()
     
     override func viewDidLoad() {
-        super.viewDidLoad()
+        super.viewDidLoad() 
              
         initialize()
         uploadData()
